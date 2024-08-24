@@ -18,12 +18,12 @@ nav{
     }
 
     .dropdown-menu{
-        background-color: #8B0000;
+        background-color: 	#000000;
     }
 
-    .dropdown .dropdown-menu .dropdowns{
+    .dropdown .dropdown-menu .dropdown-item{
         text-decoration: none;
-        color: #fff;
+        color: 	#000000;
     }
 
     li .dropdown .nav-link ul .dropdown-menu li a.dropdown-item::after{
